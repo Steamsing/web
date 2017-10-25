@@ -8,7 +8,7 @@ A "work in progress" website for uploading CS:GO configs and for my own website 
 
 I will add support for new video tab
 
-Next Update
+## Next Update
 
 I'm going to rebuild the website from scratch with the new bootstrap 4.
 
