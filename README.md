@@ -1,10 +1,10 @@
 # TOTTEPLAYGAMES WEBSITE
 
-Strossel logo
+![Strossel logo]
 
 A "work in progress" website for uploading CS:GO configs and for my own website with youtube videos etc.
 
-Planned Support:
+## Planned Support:
 
 I will add support for new video tab
 
