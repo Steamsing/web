@@ -13,6 +13,7 @@ Next Update
 I'm going to rebuild the website from scratch with the new bootstrap 4.
 
 |Version	|Links	|News |
+|---------|-------|-----|
 |Beta 2	|[Link]	|Rebuilded the start site
 |Beta 1	|[Link]	|Added back videos to work and all that shit
 |Alpha 10	|[Link]	|Added VIDEOS to under construction
